@@ -1,0 +1,2 @@
+# Sample input file for Airbnb Explorer scraper.
+# Please add your desired locations, check-in and check-out dates, and price range.
