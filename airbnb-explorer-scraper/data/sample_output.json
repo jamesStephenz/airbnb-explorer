@@ -1,0 +1,22 @@
+[
+    {
+        "location": "New York",
+        "price": "$200",
+        "description": "Beautiful 2-bedroom apartment in the heart of Manhattan.",
+        "amenities": ["Wi-Fi", "Air conditioning", "Pool"],
+        "ratings": 4.8,
+        "reviews": 150,
+        "check_in": "2024-06-01",
+        "check_out": "2024-06-07"
+    },
+    {
+        "location": "Paris",
+        "price": "$250",
+        "description": "Charming studio near the Eiffel Tower.",
+        "amenities": ["Wi-Fi", "Kitchen", "Gym"],
+        "ratings": 4.9,
+        "reviews": 120,
+        "check_in": "2024-07-15",
+        "check_out": "2024-07-20"
+    }
+]
