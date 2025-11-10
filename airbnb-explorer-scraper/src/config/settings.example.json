@@ -1,0 +1,8 @@
+{
+    "locations": ["New York", "Paris"],
+    "check_in": "2024-06-01",
+    "check_out": "2024-06-07",
+    "price_min": 100,
+    "price_max": 500,
+    "output_dir": "data/"
+}
